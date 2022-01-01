@@ -12,6 +12,7 @@ h1{
     text-align: center;
     text-shadow: 1px 1px 1px cyan;
     margin: auto;
+    height: 50px;
 }
 
 html{
